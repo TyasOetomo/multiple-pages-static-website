@@ -15,23 +15,7 @@ body {
   }
   
    
-  .navigation-links {
-    display: flex;
-    margin-top: 40px;
-    justify-content: center;
-  }
-  
-  .container {
-    text-align: center;
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 30px 60px;
-    background-color:#57CBC8;
-    background:radial-gradient(circle at 7.5% 24%, rgb(237, 161, 193) 0%, rgb(250, 178, 172) 25.5%, rgb(190, 228, 210) 62.3%, rgb(215, 248, 247) 93.8%);;
-    border-radius: 10px;
-}
-
-img {
+ img {
     display: block;
     margin: 0 auto;
     max-width: 100%;
@@ -46,6 +30,22 @@ p {
     text-align: justify;
 
 }
+
+.navigation-links {
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+  }
+  
+  .container {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px 60px;
+    background-color:#57CBC8;
+    background:radial-gradient(circle at 7.5% 24%, rgb(237, 161, 193) 0%, rgb(250, 178, 172) 25.5%, rgb(190, 228, 210) 62.3%, rgb(215, 248, 247) 93.8%);;
+    border-radius: 10px;
+  }
 
 .homepage {
     background-color: aqua;
