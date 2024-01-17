@@ -7,10 +7,14 @@ body {
   
   h1 {
     text-align: center;
-    margin-top: 20;
-    font-size: 96px;
-    border-bottom: 1px solid #f9f7fe;
-    padding: 0 0 30px 0;
+    background-color: #8F309A;
+    background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 4px;
+    padding: 15px 20px; 
   }
   
    
