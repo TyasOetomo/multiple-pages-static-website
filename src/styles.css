@@ -49,6 +49,15 @@ p {
     border-radius: 10px;
   }
 
+  footer{
+    text-align: center;
+    display:block;
+    margin-top:20px;
+    
+  }
+  .footer-link{
+    padding:20px;
+  }
 
 
   
