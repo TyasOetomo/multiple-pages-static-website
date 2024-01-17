@@ -5,15 +5,12 @@ body {
     max-width: 800px;
   }
   
-  header {
-    border-bottom: 1px solid #f9f7fe;
-    padding: 0 0 30px 0;
-  }
-
   h1 {
     text-align: center;
     margin-top: 20;
     font-size: 96px;
+    border-bottom: 1px solid #f9f7fe;
+    padding: 0 0 30px 0;
   }
   
    
