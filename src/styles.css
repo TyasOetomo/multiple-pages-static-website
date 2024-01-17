@@ -7,7 +7,7 @@ bbody{
   h1,p{
     text-align:center;
   }
-  
+
   a{
     color:green;
     
@@ -38,11 +38,6 @@ p {
 
 }
 
-.navigation-links {
-    display: flex;
-    margin-top: 40px;
-    justify-content: center;
-  }
   
   .container {
     text-align: center;
@@ -54,19 +49,6 @@ p {
     border-radius: 10px;
   }
 
-.homepage {
-    background-color: aqua;
-    text-align: center;
-}
 
-.about {
-    background-color: aqua;
-    text-align: center;
-}
-
-.contact {
-    background-color: aqua;
-    text-align: center;
-}
 
   
