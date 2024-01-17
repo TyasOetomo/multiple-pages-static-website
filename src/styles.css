@@ -7,9 +7,6 @@ body {
   
   h1 {
     text-align: center;
-    background-color: #8F309A;
-    background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
-    color: #FFFFFF;
     font-weight: normal;
     font-size: 96px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
