@@ -1,19 +1,26 @@
-body {
-    background-color: yellowgreen;
-    font-family: "Roboto", sans-serif;
-    margin: 60px auto;
-    max-width: 800px;
+bbody{
+    background-color: burlywood;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
   }
   
-  h1 {
+  h1,p{
+    text-align:center;
+  }
+  
+  a{
+    color:green;
+    
+  }
+  footer{
     text-align: center;
-    font-weight: normal;
-    font-size: 96px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 4px;
-    padding: 15px 20px; 
+    display:block;
+    margin-top:20px;
+    
   }
-  
+  .footer-link{
+    padding:20px;
+  }
    
  img {
     display: block;
